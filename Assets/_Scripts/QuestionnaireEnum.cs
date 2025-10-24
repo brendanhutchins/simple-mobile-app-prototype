@@ -1,0 +1,21 @@
+public enum Questionnaire
+{
+    Sex,
+    AnxietyFreq,
+    AnxietyLength,
+    DrinksIntake,
+    DrinksLatinxGuess,
+    MoneySpent,
+    Budget,
+    Motivation,
+    Symptoms,
+    Screen25,
+    Screen26,
+    Screen44,
+    Screen64,
+    Screen68,
+    Screen69,
+    Screen70,
+    Screen71,
+    Id,
+}
