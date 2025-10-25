@@ -1,4 +1,4 @@
-# simple-mobile-app-prototype
+# Mobile App Prototype
 I was the sole Unity/C# developer on this project. I implemented the full UI/UX flow, captions display, and data saving capabilities.
 
 Unity version: 2021.3
